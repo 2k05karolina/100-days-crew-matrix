@@ -1,9 +1,1 @@
- addition of two numbers
-public class Add{
- int a=2;
- int b=5;
- public static void main(String args[])
-{
-System.out.println(a+b);
-}
-}
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=2k05karolina&theme=" alt="2k05karolina" /></p>
