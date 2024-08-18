@@ -1,1 +1,21 @@
-try to code 
+//This semester, Chef took X courses. Each course has Y units and each unit has Z chapters in it.Find the total number of chapters Chef has to study this semester.
+Input3
+1 1 1
+2 1 2
+1 2 3output:
+1
+4
+6
+
+import java.util.*;
+class HelloWorld {
+    public static void main(String[] args) {
+        int x=2;
+        int y=3;
+        int z=1;
+        int t=(x*y*z);
+        {
+        System.out.println(t);
+        }
+    }
+}
