@@ -1,0 +1,15 @@
+import java.util.*;
+class HelloWorld {
+    public static void main(String[] args) {
+        int x=1000;
+        int off=(x/10);
+        int dis=(x-100);
+        if(off>dis)
+        {
+        System.out.println(dis);
+        }
+        else{
+            System.out.println(off);
+        }
+    }
+}
